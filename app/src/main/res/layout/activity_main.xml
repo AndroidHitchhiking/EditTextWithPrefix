@@ -16,6 +16,6 @@
         android:layout_height="wrap_content"
         android:gravity="bottom"
         android:tag="+61 "
-        android:text="1234"
+        android:text=""
         android:textSize="24sp"/>
 </RelativeLayout>

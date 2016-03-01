@@ -15,4 +15,6 @@ public class MainActivity extends AppCompatActivity {
         etPrefix = (EditTextWithPrefix) findViewById(R.id.etPrefix);
         etPrefix.setTag("+22");
     }
+
+
 }
