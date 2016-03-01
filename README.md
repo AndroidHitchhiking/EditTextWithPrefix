@@ -2,7 +2,7 @@
 Adding Prefix In Edittext Android. You can add prefix easily without writing the lengthy code and also no need to handle the cases like do not copy, paste, select, delete etc to prefix.
 
 -
-![alt tag]( https://github.com/AndroidHitchhiking/EditTextWithPrefix/blob/master/Screenshots/outputgif.gif)
+![alt tag](https://github.com/AndroidHitchhiking/EditTextWithPrefix/blob/master/Screenshots/outputgif.gif)
 
 ######Integrate in your application by doing the following steps (No Library required).
 •	Copy the EditTextWithPrefix.java file in your package as it is.
